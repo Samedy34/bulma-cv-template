@@ -1,6 +1,6 @@
 html,
 body {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Segoe UI', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif;
 }
 
 .left {
@@ -8,7 +8,7 @@ body {
 }
 
 .right {
-  background-image: url('../media/background.webp');
+  background-image: url('../media/bg.jpg');
   background-position: center;
   background-size: cover;
   height: 400px;
