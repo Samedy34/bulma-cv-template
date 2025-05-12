@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nail18.ru/sitemap.xml
